@@ -9,7 +9,7 @@ results/    metrics tables (CSV)   figures/  plots   exports/  trained model
 python -m venv venv; venv\Scripts\activate; pip install -r requirements.txt
 
 ## Data
-Not in the repo. Download from <shared link> and unzip into data/CICIDS2017_output and data/UNSW_output.
+Not in the repo. Download from xioshi in the whatsapp group and unzip into data/CICIDS2017_output and data/UNSW_output.
 
 ## Run order
 1) 01_models  2) 04_unsw_models  3) 02_cross_dataset  4) 03_shap  5) 05_report_tables
