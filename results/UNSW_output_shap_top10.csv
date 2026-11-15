@@ -1,0 +1,11 @@
+,SHAP,RF importance
+dload,2.0368,0.0609
+ackdat,1.1977,0.0369
+smean,0.5128,0.1505
+tcprtt,0.4342,0.0415
+dmean,0.4176,0.0713
+synack,0.3315,0.0415
+swin,0.2886,0.0039
+dpkts,0.2711,0.0383
+ct_src_dport_ltm,0.2594,0.0364
+service_-,0.1882,0.0344

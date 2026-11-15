@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1,roc_auc,fpr,fnr,infer_us
+"XGB, all 30 features",0.9991,0.9947,0.9998,0.9973,1.0,0.0011,0.0002,0.6507
+"XGB, no Destination Port",0.9988,0.9936,0.9995,0.9966,1.0,0.0013,0.0005,0.599

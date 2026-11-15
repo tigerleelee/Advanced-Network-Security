@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,roc_auc,fpr,fnr,infer_us
+RF CIC to UNSW (quantile),0.5371,0.4497,0.1346,0.2072,0.5756,0.1345,0.8654,0.8123
+XGB CIC to UNSW (quantile),0.5656,0.6207,0.0854,0.1501,0.4741,0.0426,0.9146,0.3047
+RF UNSW to CIC (quantile),0.4269,0.1939,0.7612,0.3091,0.5917,0.6409,0.2388,1.1123
+XGB UNSW to CIC (quantile),0.4371,0.1999,0.7797,0.3182,0.5271,0.6323,0.2203,0.2657
