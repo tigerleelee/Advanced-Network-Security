@@ -1,4 +1,4 @@
-# SEC3044 Group Project: AI/ML Intrusion Detection
+# SEC3044 Group Assignment Member 3
 
 ## Structure
 notebooks/  01_models (CIC models), 02_cross_dataset, 03_shap, 04_unsw_models, 05_report_tables
